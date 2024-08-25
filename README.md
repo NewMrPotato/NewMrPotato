@@ -1,14 +1,12 @@
 <h1 >Hi 👋, I'm Mr.Potato</h1>
 
----
 
 I am a novice ML engineer, this guide took some time after the appearance of the intention in Yandex. To do this, we have developed various applications for you: java backend, python bots, UE4 with nodes.
 
 ###
 
-<h3 align="left">👤 Where to find me</h3>
+<h3 align="left">👤 Where to find me:</h3>
 
----
 
 <p align="left">
 <a href="https://kaggle.com/newmrpotato" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="newmrpotato" height="30" width="40" /></a>
@@ -18,9 +16,8 @@ I am a novice ML engineer, this guide took some time after the appearance of the
 
 ###
 
-<h3 align="left">🛠 Languages and Tools</h3>
+<h3 align="left">🛠 Languages and Tools:</h3>
 
----
 <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a><a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
 <p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
@@ -31,9 +28,8 @@ I am a novice ML engineer, this guide took some time after the appearance of the
 
 ###
 
-<h3 align="left">🔥 Github Stats</h3>
+<h3 align="left">🔥 Github Stats:</h3>
 
----
 
 <div align="center">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NewMrPotato&theme=dark" height="200" alt="languages graph"  />
