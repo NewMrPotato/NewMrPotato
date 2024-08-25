@@ -32,7 +32,7 @@ I am a novice ML engineer, this guide took some time after the appearance of the
 
 
 <div align="center">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NewMrPotato&theme=dark" height="230" alt="languages graph"  />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NewMrPotato&theme=dark" height="215" alt="languages graph"  />
 </div>
 
 <div align="center">
