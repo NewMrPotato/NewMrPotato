@@ -34,7 +34,7 @@ I am a novice ML engineer, this guide took some time after the appearance of the
 </div>
 
 
-
+<!--
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
@@ -49,3 +49,4 @@ I am a novice ML engineer, this guide took some time after the appearance of the
     src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
   />
 </picture>
+-->
