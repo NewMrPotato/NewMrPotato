@@ -11,7 +11,7 @@ I am a novice ML engineer, this guide took some time after the appearance of the
 <p align="left">
 <a href="https://kaggle.com/newmrpotato" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="newmrpotato" height="30" width="40" /></a>
 <a href="https://www.youtube.com/@mrpotatonew" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="mrpotatonew" height="30" width="40" /></a>
-<a href="https://discord.gg/https://discord.gg/cHFmBFpq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/m7QujhgUWg" height="30" width="40" /></a>
+<a href="https://discord.gg/m7QujhgUWg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/m7QujhgUWg" height="30" width="40" /></a>
 </p>
 
 ###
