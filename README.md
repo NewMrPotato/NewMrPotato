@@ -1,8 +1,5 @@
 <h1 >Hi 👋, I'm Mr.Potato</h1>
 
-
-I am a novice ML engineer, this guide took some time after the appearance of the intention in Yandex. To do this, we have developed various applications for you: java backend, python bots, UE4 with nodes.
-
 ###
 
 <h3 align="left">👤 Where to find me:</h3>
