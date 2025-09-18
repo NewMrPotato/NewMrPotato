@@ -26,12 +26,8 @@
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NewMrPotato&theme=dark" height="215" alt="languages graph"  />
 </div>
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=NewMrPotato&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="155" alt="streak graph"  /><img src="https://github-readme-stats.vercel.app/api/top-langs?username=NewMrPotato&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="155" alt="languages graph"  />
-</div>
 
 
-<!--
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
@@ -46,4 +42,4 @@
     src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
   />
 </picture>
--->
+
