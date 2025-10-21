@@ -2,10 +2,6 @@
 
 ###
 
-<p align="left">My name is ... and I'm a ..., from ....</p>
-
-###
-
 <h2 align="left">About me</h2>
 
 ###
@@ -92,17 +88,6 @@
 </div>
 
 ###
-
-
-###
-<h3 align="left">🔥 Github Stats:</h3>
-
-
-<div align="center">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NewMrPotato&theme=dark" height="215" alt="languages graph"  />
-</div>
-
-
 
 <picture>
   <source
