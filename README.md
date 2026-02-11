@@ -88,7 +88,7 @@
 </div>
 
 ###
-
+<!==
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
@@ -103,3 +103,4 @@
     src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
   />
 </picture>
+-->
