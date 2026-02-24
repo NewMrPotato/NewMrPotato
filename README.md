@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">📚 I'm currently learning ML and Math💀<br>🎯 Goals: Plush Pepe</p>
+<p align="left">📚 I'm currently learning ML and Math💀<br></p>
 
 ###
 
