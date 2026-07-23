@@ -1,14 +1,5 @@
 <!--<h1 >Hi 👋, I'm Mr.Potato</h1>-->
 
-###
-
-<h2 align="left">About me</h2>
-
-###
-
-<p align="left">📚 I'm currently learning ML and Math💀<br></p>
-
-###
 
 <h2 align="left">🛠 Languages and Tools:</h2>
 
