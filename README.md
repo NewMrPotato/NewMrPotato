@@ -1,45 +1,71 @@
 
-## 🛠 Tech Stack
+### 🌐 Links
 
-**Languages**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/C-435C78?style=flat-square&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+[![Telegram](https://img.shields.io/badge/Telegram-Chat-26A5E4?style=flat&logo=telegram&logoColor=white)](https://t.me/TO4HOHEPOTATO)
 
-**Backend & Applications**  
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Uvicorn](https://img.shields.io/badge/Uvicorn-4051B5?style=flat-square)
-![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square&logo=sqlalchemy&logoColor=white)
-![Alembic](https://img.shields.io/badge/Alembic-795548?style=flat-square)
-![Spring Core](https://img.shields.io/badge/Spring%20Core-6DB33F?style=flat-square&logo=spring&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
-![Spring MVC](https://img.shields.io/badge/Spring%20MVC-5A9E35?style=flat-square&logo=spring&logoColor=white)
-![Spring Data JPA](https://img.shields.io/badge/Spring%20Data%20JPA-4D8C2F?style=flat-square&logo=spring&logoColor=white)
-![Android SDK](https://img.shields.io/badge/Android%20SDK-3DDC84?style=flat-square&logo=android&logoColor=black)
-![JavaFX](https://img.shields.io/badge/JavaFX-E76F00?style=flat-square&logo=openjdk&logoColor=white)
+## 💻 Tech Stack
 
-**Databases & Infrastructure**  
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+### Programming Languages
 
-**Build, Testing & Code Quality**  
-![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white)
-![Gradle](https://img.shields.io/badge/Gradle-02303A?style=flat-square&logo=gradle&logoColor=white)
-![JUnit](https://img.shields.io/badge/JUnit-25A162?style=flat-square&logo=junit5&logoColor=white)
-![pytest](https://img.shields.io/badge/pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white)
-![mypy](https://img.shields.io/badge/mypy-2A6DB2?style=flat-square)
-![Ruff](https://img.shields.io/badge/Ruff-D7FF64?style=flat-square&logoColor=black)
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
+<p>
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Java-ED8B00?style=flat&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus&logoColor=white" />
+</p>
 
-**Machine Learning & Data**  
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![pandas](https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+### Backend & Applications
+
+<p>
+  <img src="https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Uvicorn-4051B5?style=flat" />
+  <img src="https://img.shields.io/badge/-SQLAlchemy-D71F00?style=flat&logo=sqlalchemy&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Alembic-795548?style=flat" />
+  <img src="https://img.shields.io/badge/-Spring_Core-6DB33F?style=flat&logo=spring&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Spring_MVC-5A9E35?style=flat&logo=spring&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Spring_Data_JPA-4D8C2F?style=flat&logo=spring&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Android_SDK-3DDC84?style=flat&logo=android&logoColor=black" />
+  <img src="https://img.shields.io/badge/-JavaFX-E76F00?style=flat&logo=openjdk&logoColor=white" />
+</p>
+
+### Databases & Infrastructure
+
+<p>
+  <img src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/-SQLite-003B57?style=flat&logo=sqlite&logoColor=white" />
+  <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Redis-DC382D?style=flat&logo=redis&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white" />
+</p>
+
+### Build, Testing & Code Quality
+
+<p>
+  <img src="https://img.shields.io/badge/-Maven-C71A36?style=flat&logo=apachemaven&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Gradle-02303A?style=flat&logo=gradle&logoColor=white" />
+  <img src="https://img.shields.io/badge/-JUnit-25A162?style=flat&logo=junit5&logoColor=white" />
+  <img src="https://img.shields.io/badge/-pytest-0A9EDC?style=flat&logo=pytest&logoColor=white" />
+  <img src="https://img.shields.io/badge/-mypy-2A6DB2?style=flat" />
+  <img src="https://img.shields.io/badge/-Ruff-D7FF64?style=flat&logoColor=black" />
+  <img src="https://img.shields.io/badge/-Selenium-43B02A?style=flat&logo=selenium&logoColor=white" />
+</p>
+
+### Machine Learning & Data
+
+<p>
+  <img src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Scikit--Learn-F7931E?style=flat&logo=scikitlearn&logoColor=white" />
+  <img src="https://img.shields.io/badge/-XGBoost-EB5B0D?style=flat&logo=xgboost&logoColor=white" />
+  <img src="https://img.shields.io/badge/-LightGBM-00BFFF?style=flat&logo=lightgbm&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Optuna-AB47BC?style=flat&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/-pandas-150458?style=flat&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Matplotlib-11557C?style=flat&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Seaborn-0081A7?style=flat&logo=python&logoColor=white" />
+</p>
+
 
 ## 💻 Experience
 
